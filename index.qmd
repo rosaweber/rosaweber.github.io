@@ -14,7 +14,7 @@ about:
       href: https://scholar.google.com/citations?user=ARYBx0MAAAAJ&hl=en
     - icon: linkedin  
       text: LinkedIn
-      href: linkedin.com/in/rosa-weber-04a34426b
+      href: https://www.linkedin.com/in/rosa-weber-288004187/
     - icon: envelope
       text: rosa.weber@sociology.su.se
       href: mailto:rosa.weber@sociology.su.se
