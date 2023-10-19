@@ -1,0 +1,39 @@
+---
+title: "Rosa Weber"
+image: home.jpg
+about: 
+  template: trestles # see other templates at https://quarto.org/docs/websites/website-about.html#templates
+  image-shape: rounded
+  image-width: 20em
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/RosaWeber18091
+    - icon: google scholar
+      text: Googlescholar
+      href: https://scholar.google.com/citations?user=ARYBx0MAAAAJ&hl=en
+    - icon: linkedin  
+      text: LinkedIn
+      href: linkedin.com/in/rosa-weber-04a34426b
+    - icon: envelope
+      text: rosa.weber@sociology.su.se
+      href: mailto:rosa.weber@sociology.su.se
+---
+### About me
+
+I am an Assistant Professor and Postdoctoral researcher in sociology at Stockholm University and the French Institute for Demographic Studies. Previously, I conduced an international postdoc project (funded by the Swedish Research Council for Health, Working Life and Welfare). My research interests lie in international migration, social stratification, and residential stratification. 
+
+My ongoing research focuses on international migration and integration in Sweden and France. I am currently engaged in empirical work assessing how neighborhood and school segregation shape the friendship circles and socioeconomic outcomes of immigrants and their descendants. I also study migration behavior and assess prevalent factors that impact individual propensities to migrate and return migrate. I analyze both administrative and survey data, including linked Finnish and Swedish register data and Trajectories and Origins 2 (TeO2). I use a variety of quantitative methods, among others difference in differences models, event history analysis and fixed effects models.
+
+My work has appeared in the *European Journal of Population*, *Research in Social Stratification and Mobility*, *Population, Space and Place*, *PLOS ONE*, and *Population Research and Policy Review*, among other outlets. 
+
+### Education 
+
+PhD in Sociology, 2020 \
+Stockholm University
+
+M.Sc. in Sociology(Research), 2014 \
+London School of Economics 
+
+B.A. in Serbian/Croatian and Eastern European Studies, 2013 \
+University College London

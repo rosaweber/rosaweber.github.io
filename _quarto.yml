@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs
+  
+website:
+  title: "Rosa Weber"
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - research.qmd
+      - href: cv.qmd
+        text: CV
+      - href: contact.qmd
+  page-footer: 
+    right: 
+      - "Last updated: October 2023"
+  
+     
+format:
+  html:
+    theme: 
+      - styles.scss
+    toc: true
+    page-layout: full
+
+
+
