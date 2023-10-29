@@ -20,7 +20,7 @@ about:
       href: mailto:rosa.weber@sociology.su.se
 ---
 <head>
-<meta name="google-site-verification" content="google54d62545c7ebd705" />
+<meta name="google-site-verification" content="QR4VN60nHmGds-vqyil7Le6TMSt1D2kcC4CnjMQ9I3o" />
 </head>
 
 ### About me
