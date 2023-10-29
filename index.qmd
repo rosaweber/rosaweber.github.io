@@ -23,6 +23,8 @@ about:
 <meta name="google-site-verification" content="QR4VN60nHmGds-vqyil7Le6TMSt1D2kcC4CnjMQ9I3o" />
 </head>
 
+<body>
+
 ### About me
 
 I am an Assistant Professor and Postdoctoral researcher in sociology at Stockholm University and the French Institute for Demographic Studies. Previously, I conduced an international postdoc project (funded by the Swedish Research Council for Health, Working Life and Welfare). My research interests lie in international migration, social stratification, and residential stratification. 
@@ -41,3 +43,4 @@ London School of Economics
 
 B.A. in Serbian/Croatian and Eastern European Studies, 2013 \
 University College London
+</body>
