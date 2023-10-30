@@ -1,6 +1,3 @@
-<head>
-<meta name="google-site-verification" content="QR4VN60nHmGds-vqyil7Le6TMSt1D2kcC4CnjMQ9I3o" />
-</head>
 ---
 title: "Rosa Weber"
 image: home.jpg
@@ -22,6 +19,9 @@ about:
       text: rosa.weber@sociology.su.se
       href: mailto:rosa.weber@sociology.su.se
 ---
+<head>
+<meta name="google-site-verification" content="QR4VN60nHmGds-vqyil7Le6TMSt1D2kcC4CnjMQ9I3o" />
+</head>
 
 <body>
 ### About me
