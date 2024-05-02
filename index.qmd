@@ -6,9 +6,9 @@ about:
   image-shape: rounded
   image-width: 20em
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/RosaWeber18091
+    - icon: bluesky
+      text: Bluesky
+      href: https://bsky.app/profile/rosaweber.bsky.social
     - icon: google scholar
       text: Googlescholar
       href: https://scholar.google.com/citations?user=ARYBx0MAAAAJ&hl=en
