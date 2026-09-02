@@ -1,0 +1,43 @@
+---
+title: "Rosa Weber"
+image: home.jpg
+about: 
+  template: trestles # see other templates at https://quarto.org/docs/websites/website-about.html#templates
+  image-shape: rounded
+  image-width: 20em
+  links:
+    - icon: google scholar
+      text: Googlescholar
+      href: https://scholar.google.com/citations?user=ARYBx0MAAAAJ&hl=en
+    - icon: linkedin  
+      text: LinkedIn
+      href: https://se.linkedin.com/in/rosa-weber-288004187
+    - icon: bluesky
+      text: Bluesky
+      href: https://bsky.app/profile/rosaweber.bsky.social
+    - icon: envelope
+      text: rosa.weber@sociology.su.se
+      href: mailto:rosa.weber@sociology.su.se
+---
+<head>
+<meta name="google-site-verification" content="QR4VN60nHmGds-vqyil7Le6TMSt1D2kcC4CnjMQ9I3o" />
+</head>
+
+### About me
+
+I am Assistant Professor in sociology (without tenure) at Stockholm University. I am currently also Principal Investigator of the *Segregation across Multiple Domains* project (awarded by the Swedish Research Council for Health, Working Life and Welfare, 4.8m SEK in October 2023), which assesses workplace and neighbourhood segregation using Swedish register data. Previously, I was a postdoctoral researcher at the French Institute for Demographic Studies within the 3GEN project (PI Mathieu Ichou) and conducted an international postdoc project (awarded by the Swedish Research Council for Health, Working Life and Welfare, 2.4m SEK in May 2021). My research interests lie in social stratification, ethnic inequalities, and international migration.
+
+My ongoing research focuses on social inequalties, migration, and integration in Europe and the United States. I am currently engaged in empirical work assessing how neighborhoods and workplaces shape the socioeconomic trajectories of immigrants and their descendants. I also assess intergenerational persistence in gender disparities across education fields of study and its potential implications for labor market gaps. I further study migration behavior and assess individual propensities to migrate and return migrate. I analyze both administrative and survey data, including linked Finnish and Swedish register data and Trajectories and Origins 2 (TeO2). I use a variety of quantitative methods, among others difference in differences models, event history analysis, and fixed effects models.
+
+My work has appeared in *Demography*, *Research in Social Stratification and Mobility*, *European Journal of Population*, *Population Research and Policy Review*, and *PLOS ONE*, among other outlets. 
+
+### Education 
+
+Ph.D. in Sociology, 2020 \
+Stockholm University
+
+M.Sc. in Sociology(Research), 2014 \
+London School of Economics 
+
+B.A. in Serbian/Croatian and Eastern European Studies, 2013 \
+University College London
