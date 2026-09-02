@@ -9,12 +9,13 @@ website:
       - href: index.qmd
         text: Home
       - research.qmd
+      - teaching.qmd
       - href: cv.qmd
         text: CV
       - href: contact.qmd
   page-footer: 
     right: 
-      - "Last updated: November 2023"
+      - "Last updated: September 2026"
   
      
 format:

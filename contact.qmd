@@ -1,14 +1,17 @@
+
 ---
 title: "Contact"
 ---
 
-### Address
-French Institute for Demographic Studies \
-International Migrations and Minorities Unit \
-9 cours des Humanités | 93300 Aubervilliers | France \
+### Address 
+
+Department of Sociology \
+Stocholm University | Universitetvägen 10B | 106 91 Stockholm
 
 ### Email
-rosa.weber@sociolgy.su.se \
 
-### Telephone
-+33 7 49 68 08 34 \
+rosa.weber@sociology.su.se
+
+### Telephone 
+
++33749680834
