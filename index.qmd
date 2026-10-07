@@ -23,18 +23,14 @@ about:
 <meta name="google-site-verification" content="QR4VN60nHmGds-vqyil7Le6TMSt1D2kcC4CnjMQ9I3o" />
 </head>
 
-### About me
-<div style="border: 2px solid darkblue; padding: 5px 5px 0px 5px; border-radius: 3px;">
-<span style="color: black; font-size: 80%;">
-Associate Professor (without tenure) in sociology, Stockholm University <br>
-Affiliations: Sciences Po, Åbo Akademi University in Finland <br>
-<br>
-<span style="color: black; font-size: 100%;">
-ERC Starting Grant (awarded in Sept 2026): 
-(Dis)advantage Across Countries and Generations: Intergenerational Social Mobility in Immigrant Families [immiGEN](https://erc.europa.eu/system/files/2026-09/erc-2026-stg-results-all-domains.pdf) 
-</span>
-</div>
+### About me 
+Associate Professor in sociology (without tenure), \
+  Stockholm University \
+Affiliations: Sciences Po, Åbo Akademi University \
 \
+ERC Starting Grant (awarded Sept 2026) *(Dis)advantage Across Countries and Generations: Intergenerational Social Mobility in Immigrant Families* [immiGEN](https://erc.europa.eu/system/files/2026-09/erc-2026-stg-results-all-domains.pdf) \
+
+### Description
 I am Associate Professor in sociology (without tenure) at Stockholm University. I am currently also Principal Investigator of the *Segregation Across  Domains* project (awarded by the Swedish funding body FORTE, €435,000 in October 2023), which assesses workplace and neighborhood segregation using Swedish register data. Previously, I was a postdoctoral researcher at the French Institute for Demographic Studies within the 3GEN project (PI Mathieu Ichou) and conducted an international postdoc project (awarded by FORTE, €218,000 in May 2021). My research interests lie in social stratification, ethnic inequalities, and international migration.
 
 My ongoing research focuses on migration, integration, and social inequalities across Europe and the United States. I am currently engaged in empirical work assessing how neighborhoods and workplaces shape the socioeconomic trajectories of immigrants and their descendants. I also assess intergenerational persistence in gender disparities across education fields of study and its potential implications for labor market gaps. I further study migration behavior and assess individual propensities to migrate and return migrate. I analyze both administrative and survey data, including linked Finnish and Swedish register data and Trajectories and Origins 2 (TeO2). I use a variety of quantitative methods, among others difference in differences models, event history analysis, and fixed effects models.
